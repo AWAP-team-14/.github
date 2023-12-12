@@ -20,10 +20,10 @@ The application follows a client-server architecture, where the frontend (React)
 The database structure comprises data collection for consumer, parcel information, parcel history, parcel lockers, and driver. Relationships are established between data collection to maintain data integrity.Each consumer has their name, email, mobile number, and password. The parcel contains information about parcel dimensions and the sender and the recipient information and its status. Each parcel locker has a set of cabinets, and each cabinet is associated with specific parcel information. The structure allows efficient retrieval of user-specific parcel histories and real-time updates for drivers regarding available cabinets.
 
 ## A link to a working application on the public internet
-Link to the Consumer website: [https://kind-ground-058b85803.4.azurestaticapps.net](url)
-Link to the Driver application:[ https://lively-cliff-02b135203.4.azurestaticapps.net/](url)
-Link to the Touch-screen application: [https://icy-coast-0bfa97f03.4.azurestaticapps.net](url)
-Link to the GitHub and source file for the application: [https://github.com/orgs/AWAP-team-14/repositories](url)
+1. Link to the Consumer website: [https://kind-ground-058b85803.4.azurestaticapps.net](url)
+2. Link to the Driver application:[ https://lively-cliff-02b135203.4.azurestaticapps.net/](url)
+3. Link to the Touch-screen application: [https://icy-coast-0bfa97f03.4.azurestaticapps.net](url)
+4. Link to the GitHub and source file for the application: [https://github.com/orgs/AWAP-team-14/repositories](url)
 
 ## How to install and use the application
 1.	Clone all the 4 repositories on the local machine. 
