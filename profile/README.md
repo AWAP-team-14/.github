@@ -23,6 +23,6 @@ The database structure comprises data collection for consumer, parcel informatio
 1. Link to the Consumer website: [https://kind-ground-058b85803.4.azurestaticapps.net]
 2. Link to the Driver application:[ https://lively-cliff-02b135203.4.azurestaticapps.net]
 3. Link to the Touch-screen application: [https://icy-coast-0bfa97f03.4.azurestaticapps.net]
-4. Link to the GitHub and source file for the application:[https://github.com/GoParcel-AWAP-team-14/repositories]
+4. Link to the GitHub and source file for the application:[https://github.com/GoParcel-AWAP-team-14]
 5. Link to the Test Plan: [https://oamk-my.sharepoint.com/:w:/g/personal/t2masu00_students_oamk_fi/EZ3eZdcBamVLhPCkObnal5MBqgm6yYS0MGlQXgvNUHWhuw?e=EYO8w3]
 
