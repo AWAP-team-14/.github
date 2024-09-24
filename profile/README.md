@@ -24,5 +24,5 @@ The database structure comprises data collection for consumer, parcel informatio
 2. Link to the Driver application:[ https://lively-cliff-02b135203.4.azurestaticapps.net]  Login credential: email- testdriver@xyz.com, pass: Test@000
 3. Link to the Touch-screen application: [https://icy-coast-0bfa97f03.4.azurestaticapps.net]
 4. Link to the GitHub and source file for the application:[https://github.com/GoParcel-AWAP-team-14]
-5. Link to the Test Plan: [https://oamk-my.sharepoint.com/:w:/g/personal/t2masu00_students_oamk_fi/EZ3eZdcBamVLhPCkObnal5MBqgm6yYS0MGlQXgvNUHWhuw?e=EYO8w3]
+5. Project demonstration video link:  https://youtu.be/p_HeMDpTVYk
 
